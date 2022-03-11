@@ -1,0 +1,4 @@
+- 👋 Hi, I’m senait asefa.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently started learning software engineering at ALX.
+- 📫 you can contact me by my email-snasefa@gmail.com.
